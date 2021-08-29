@@ -8,7 +8,7 @@ class Main {
         int first = numbers[0];
         int second = numbers[1];
         int third = numbers[2];
-        if (first < second && second < third ) {
+        if (second <= first && first <= third || third <= first && first <= second) {
             System.out.println(true);
         } else {
             System.out.println(false);

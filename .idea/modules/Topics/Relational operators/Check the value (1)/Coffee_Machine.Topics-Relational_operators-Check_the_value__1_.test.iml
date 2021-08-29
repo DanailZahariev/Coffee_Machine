@@ -8,8 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coffee_Machine.Topics-Relational_operators-Check_the_value__1_.main" />
-    <orderEntry type="module" module-name="Coffee_Machine.util.main" />
-    <orderEntry type="module" module-name="Coffee_Machine.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.9.2" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
